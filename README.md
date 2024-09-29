@@ -4,4 +4,4 @@
  
  contact me - @arshitharavind10@gmail.com
 
- Cyber Security Ethusiast
+ Offensive Security Consultant
