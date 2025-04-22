@@ -1,6 +1,4 @@
- I’m Arshith
- 
- Bangalore,India 
+ I’m Arshith 
  
  contact me - @arshitharavind10@gmail.com
 
